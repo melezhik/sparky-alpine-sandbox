@@ -1,6 +1,4 @@
 #task-run "az cli install", "alpine-az-cli-install";
 task-run "mariadb", "alpine-mariadb-test";
 
-# hello world comment 
-
-say "";
+# hello world comment
